@@ -331,9 +331,8 @@ The instructions for installation of MongoDB on various operating systems are pr
 After running of all above steps you will have installed MongoDB on your Linux or MacOS.<br/>
 Let’s check whether all works fine. In terminal window (open new one if you’ve already closed it) write:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `$ mongod`<br/>
-You should see the following text in the terminal:
-<center><img src="https://study.moderndeveloper.com/wp-content/uploads/2016/08/1470905675428.png"></center>
-<br/>
+You should see the following text in the terminal:<br/>
+<center><img src="https://study.moderndeveloper.com/wp-content/uploads/2016/08/1470905675428.png"></center><br/>
 To stop MongoDB, press Control+C in the terminal where the mongod instance is running.
 
 ### Install on Windows
