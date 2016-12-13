@@ -351,7 +351,7 @@ and<br/>
 Thus, you should have MongoDB installed.<br/>
 To start MongoDB, run mongod.exe<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `> mongod.exe`<br/>
-<center><img src="https://study.moderndeveloper.com/wp-content/uploads/2016/08/1470728724866.png"></center>
+<center><img src="https://study.moderndeveloper.com/wp-content/uploads/2016/08/1470728724866.png"></center> <br/>
 To stop MongoDB, press Control+C in the Command Prompt.<!--COMMENT; BRAD: need exercises here-->
 
 ## Mongo shell
