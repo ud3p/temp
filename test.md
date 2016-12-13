@@ -1,19 +1,3 @@
-<style>
-img.resize{
-   max-width:60%;
-   max-height:60%;
-}
-span.key{
-   color:red;
-}
-span.text{
-   color:blue;
-}
-span.num{
-   color:green;
-}
-</style>
-
 ## About
 
 This lessons starts the cycle of overall and interesting lessons about one of the most popular NoSQL database MongoDB. The short history of the appearance and development of both SQL and NoSQL databases, its kinds and properties, advantages and disadvantages are covered in the current lesson. Examples of how a SQL database's data structure to transform into a few various NoSQL databases' structures are also provided here. A lot of illustrations are designed to give a more deep understanding how these data are collected in various databases. This lesson contains an overview about MongoDB including basics of architecture, data storage particularities and fields of its application. It provides also the instruction of MongoDB installation and running on your computer. 
@@ -348,7 +332,8 @@ After running of all above steps you will have installed MongoDB on your Linux o
 Let’s check whether all works fine. In terminal window (open new one if you’ve already closed it) write:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `$ mongod`<br/>
 You should see the following text in the terminal:
-<center><img src="https://study.moderndeveloper.com/wp-content/uploads/2016/08/1470905675428.png"></center><br/>
+<center><img src="https://study.moderndeveloper.com/wp-content/uploads/2016/08/1470905675428.png"></center>
+<br/>
 To stop MongoDB, press Control+C in the terminal where the mongod instance is running.
 
 ### Install on Windows
