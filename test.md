@@ -370,9 +370,10 @@ Besides mongo shell, MongoDB API supports many programming languages such as: Py
 
 In this course we suppose you have a good knowledge of JavaScript, that’s why we will use MongDB API for JavaScript. To be more precise, it is the API for Node.js - a very powerful JavaScript-based framework/platform built on Google Chrome's JavaScript V8 Engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.<br/>
 
-Let's install Node.js. Below we provide the short instruction for installation of Node.js on Linux, MacOS and Windows.
+Let's install Node.js. Below we provide the short instruction for installation of Node.js on Ubuntu, MacOS and Windows.
+If you have different OS or you want to see another method of installation or have some trouble with installation please visit <a href="https://nodejs.org/en/download/package-manager/">https://nodejs.org/en/download/package-manager/</a>
 
-### Install Node.js on Linux
+### Install Node.js on Ubuntu
 1. Type the following command in your terminal:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `$ sudo apt-get install nodejs`  <br/>
 2. Then install the Node.js package manager, npm:<br/>
