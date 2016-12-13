@@ -359,9 +359,7 @@ Now you know what MongoDB is, what it can be used for, and how to install it on 
 
 MongoDB provides an interactive interface for querying and updating data as well as performing administrative operations. It called **mongo shell.** The mongo shell is a component of the MongoDB distributions. Once you have installed and have started MongoDB, connect the mongo shell to your running MongoDB instance.<br/>
 
-To run mongo shell open terminal or command line depending on your OS and go to the folder where MongoDB was installed (see paragraph “Installation and setup“)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `cd <mongodb installation dir>`<br/>
-and type **./bin/mongo** to start mongo.<br/>
+To run mongo shell open terminal or command line depending on your OS and type **mongo** to start mongo.(see paragraph “Installation and setup“)<br/>
 
 To display the database you are currently using, write **db** in the terminal or command line. The operation should return **test**, which is the default database. To see all available databases created anywhere, type **show dbs** in the terminal or command line.<br/>
 
